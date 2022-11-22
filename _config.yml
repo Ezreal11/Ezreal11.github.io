@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Jie Tang"
+name                     : &name "Bohan Wang"
 description              : &description "personal description"
 url                      : "https://Ezreal11.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jie Tang (唐杰)"
-  avatar           : "tangj_large.jpg"
-  bio              : "副教授，硕士生导师"
-  location         : "南京大学仙林校区计算机楼1008室"
+  name             : "Bohan Wang (王伯涵)"
+  avatar           : "王伯涵_硕士.jpeg"
+  bio              : "硕士研究生，南京大学计算机系"
+  location         : "Nanjing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "tangjie[at]nju.edu.cn"
+  email            : "wbh8074165[at]163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "ezreal11"
   google_plus      :
   keybase          :
   instagram        :
