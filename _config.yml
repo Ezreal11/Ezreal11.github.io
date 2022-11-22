@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Bohan Wang (王伯涵)"
-  avatar           : "王伯涵_硕士.jpeg"
-  bio              : "profile.png" #"硕士研究生，南京大学计算机系"
+  avatar           : "profile.png"
+  bio              : "硕士研究生，南京大学计算机系"
   location         : "Nanjing"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
