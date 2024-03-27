@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
+<a href="/user/Ezreal4165/"><img src="https://card.exophase.com/2/0/247756.png?1711525720"></a>
 
 
 
